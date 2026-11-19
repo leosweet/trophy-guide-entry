@@ -1,5 +1,1 @@
-[
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
-]
+[{"file":"1-cover.jpg","note":"Cover: checklist with the possibly-missable Positive Mental Attitude guide and its sources open, progress and filters visible.","path":"/?trophy=28&earned=2,3,8","viewport":{"height":800,"width":1280}},{"file":"2-roadmap.jpg","note":"Roadmap to the platinum: the five stages and the missable-trophy callout.","path":"/?view=roadmap","viewport":{"height":800,"width":1280}},{"file":"3-spoiler.jpg","note":"Spoiler-free mode on with the missable filter: story trophies stay masked until earned; the missable trophy's guide is open.","path":"/?spoiler=on&filter=missable&trophy=28","viewport":{"height":800,"width":1280}},{"file":"4-collectibles.jpg","note":"Collectibles filter with the Don't Touch My Deck card-set guide open.","path":"/?filter=collectibles&trophy=30","viewport":{"height":800,"width":1280}}]
